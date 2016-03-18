@@ -1,0 +1,1056 @@
+
+
+Scores 
+
+# ------------ Only X1 Features -------------
+
+# ------------  Raw Data --------------------
+
+Parameters
+
+Depth:  20
+estimator:  400
+l_rate:  0.03
+sub_sample:  0.95
+col_sample:  0.85
+seed:  4242
+
+
+ -- Scores -- Full Train -- 
+Explained Variance Score:  0.845759674045
+Mean Absolute Error:  0.112841462744
+Mean Squared Error:  0.10740835856
+Median Absolute Error:  0.00140492197094
+R2 Score:  0.845750031712
+
+
+ -- Scores -- Train Split -- 
+Explained Variance Score:  0.999994118077
+Mean Absolute Error:  0.00131142846062
+Mean Squared Error:  4.1097525126e-06
+Median Absolute Error:  0.000839079606628
+R2 Score:  0.999994116928
+
+
+ -- Scores -- Test Split -- 
+Explained Variance Score:  0.482037596824
+Mean Absolute Error:  0.373078209404
+Mean Squared Error:  0.358018272444
+Median Absolute Error:  0.204656240369
+R2 Score:  0.481927984659
+
+
+
+Parameters
+
+Depth:  25
+estimator:  250
+l_rate:  0.03
+sub_sample:  0.9
+col_sample:  0.7
+seed:  4242
+
+
+ -- Scores -- Full Train -- 
+Explained Variance Score:  0.844972107694
+Mean Absolute Error:  0.116116776034
+Mean Squared Error:  0.107952009336
+Median Absolute Error:  0.00307827064247
+R2 Score:  0.844969290658
+
+
+ -- Scores -- Train Split -- 
+Explained Variance Score:  0.999924752061
+Mean Absolute Error:  0.00348782813253
+Mean Squared Error:  5.25268707644e-05
+Median Absolute Error:  0.00175832594318
+R2 Score:  0.999924133318
+
+
+ -- Scores -- Test Split -- 
+Explained Variance Score:  0.490187724707
+Mean Absolute Error:  0.378917654472
+Mean Squared Error:  0.359717468423
+Median Absolute Error:  0.216531433086
+R2 Score:  0.490133314219
+
+
+
+Parameters
+
+Depth:  25
+estimator:  161
+l_rate:  0.03
+sub_sample:  0.94
+col_sample:  0.85
+seed:  4242
+
+
+ -- Scores -- Full Train -- 
+Explained Variance Score:  0.844912838245
+Mean Absolute Error:  0.121430740619
+Mean Squared Error:  0.107991390622
+Median Absolute Error:  0.00948419766998
+R2 Score:  0.844912734892
+
+
+ -- Scores -- Train Split -- 
+Explained Variance Score:  0.999069411039
+Mean Absolute Error:  0.0124955715795
+Mean Squared Error:  0.000666629718856
+Median Absolute Error:  0.00591493128815
+R2 Score:  0.999046322149
+
+
+ -- Scores -- Test Split -- 
+Explained Variance Score:  0.480656209086
+Mean Absolute Error:  0.375612801711
+Mean Squared Error:  0.358415832729
+Median Absolute Error:  0.210597144441
+R2 Score:  0.4805519984
+
+
+
+Parameters
+
+Depth:  10
+estimator:  161
+l_rate:  0.03
+sub_sample:  0.94
+col_sample:  0.85
+seed:  4242
+Alpha:  0.3
+
+
+ -- Scores -- Full Train -- 
+Explained Variance Score:  0.746256749381
+Mean Absolute Error:  0.257725547865
+Mean Squared Error:  0.176708787476
+Median Absolute Error:  0.150130773969
+R2 Score:  0.746227153735
+
+
+ -- Scores -- Train Split -- 
+Explained Variance Score:  0.85984685545
+Mean Absolute Error:  0.20554918979
+Mean Squared Error:  0.0965697764126
+Median Absolute Error:  0.13283866813
+R2 Score:  0.859838611064
+
+
+ -- Scores -- Test Split -- 
+Explained Variance Score:  0.490187156347
+Mean Absolute Error:  0.379470383375
+Mean Squared Error:  0.363699813291
+Median Absolute Error:  0.215146205718
+R2 Score:  0.490058719501
+
+
+
+
+Parameters
+
+Depth:  10
+estimator:  161
+l_rate:  0.03
+sub_sample:  0.94
+col_sample:  0.85
+seed:  4242
+Alpha:  0.7
+
+
+ -- Scores -- Full Train -- 
+Explained Variance Score:  0.749510873485
+Mean Absolute Error:  0.25623817096
+Mean Squared Error:  0.174429909615
+Median Absolute Error:  0.148120554165
+R2 Score:  0.749499867726
+
+
+ -- Scores -- Train Split -- 
+Explained Variance Score:  0.855694093834
+Mean Absolute Error:  0.207851309606
+Mean Squared Error:  0.100202751212
+Median Absolute Error:  0.132424313068
+R2 Score:  0.855683706533
+
+
+ -- Scores -- Test Split -- 
+Explained Variance Score:  0.504096270491
+Mean Absolute Error:  0.369140847453
+Mean Squared Error:  0.347626612555
+Median Absolute Error:  0.207737061471
+R2 Score:  0.504083759135
+
+
+
+
+Parameters
+
+Depth:  10
+estimator:  161
+l_rate:  0.03
+sub_sample:  0.94
+col_sample:  0.85
+seed:  4242
+Alpha:  1.0
+
+
+ -- Scores -- Full Train -- 
+Explained Variance Score:  0.749272563964
+Mean Absolute Error:  0.255985421444
+Mean Squared Error:  0.174592296646
+Median Absolute Error:  0.147609703844
+R2 Score:  0.749266662464
+
+
+ -- Scores -- Train Split -- 
+Explained Variance Score:  0.858706879973
+Mean Absolute Error:  0.206019649043
+Mean Squared Error:  0.0985156504877
+Median Absolute Error:  0.131446773702
+R2 Score:  0.858695870752
+
+
+ -- Scores -- Test Split -- 
+Explained Variance Score:  0.492875021703
+Mean Absolute Error:  0.372572223714
+Mean Squared Error:  0.352104471015
+Median Absolute Error:  0.20931763354
+R2 Score:  0.492874898256
+
+
+
+
+Parameters
+
+Depth:  10
+estimator:  161
+l_rate:  0.03
+sub_sample:  0.94
+col_sample:  0.85
+seed:  4242
+Alpha:  0.8
+
+
+ -- Scores -- Full Train -- 
+Explained Variance Score:  0.749377225702
+Mean Absolute Error:  0.256507594022
+Mean Squared Error:  0.174515506554
+Median Absolute Error:  0.14845152837
+R2 Score:  0.749376941305
+
+
+ -- Scores -- Train Split -- 
+Explained Variance Score:  0.857196751448
+Mean Absolute Error:  0.20765526334
+Mean Squared Error:  0.100271910095
+Median Absolute Error:  0.13239026396
+R2 Score:  0.857185878233
+
+
+ -- Scores -- Test Split -- 
+Explained Variance Score:  0.490764168936
+Mean Absolute Error:  0.370496365614
+Mean Squared Error:  0.347750564958
+Median Absolute Error:  0.209026839649
+R2 Score:  0.490672056236
+
+
+
+Parameters
+
+Depth:  10
+estimator:  161
+l_rate:  0.03
+sub_sample:  0.94
+col_sample:  0.85
+seed:  4242
+Alpha:  0.6
+
+
+ -- Scores -- Full Train -- 
+Explained Variance Score:  0.745479724721
+Mean Absolute Error:  0.25837844617
+Mean Squared Error:  0.177232786873
+Median Absolute Error:  0.149768289056
+R2 Score:  0.745474634178
+
+
+ -- Scores -- Train Split -- 
+Explained Variance Score:  0.853862998585
+Mean Absolute Error:  0.208674730395
+Mean Squared Error:  0.101270625227
+Median Absolute Error:  0.132733911108
+R2 Score:  0.853853455848
+
+
+ -- Scores -- Test Split -- 
+Explained Variance Score:  0.496628750894
+Mean Absolute Error:  0.37435378298
+Mean Squared Error:  0.354477830712
+Median Absolute Error:  0.207981015845
+R2 Score:  0.496628643001
+
+
+
+Parameters
+
+Depth:  10
+estimator:  161
+l_rate:  0.03
+sub_sample:  0.94
+col_sample:  0.85
+seed:  4242
+Alpha:  0.7
+Lambda:  0.7
+
+
+ -- Scores -- Full Train -- 
+Explained Variance Score:  0.746331863585
+Mean Absolute Error:  0.258185868063
+Mean Squared Error:  0.176646439246
+Median Absolute Error:  0.150691787369
+R2 Score:  0.746316692506
+
+
+ -- Scores -- Train Split -- 
+Explained Variance Score:  0.854805797154
+Mean Absolute Error:  0.208562773168
+Mean Squared Error:  0.100652719482
+Median Absolute Error:  0.132694857099
+R2 Score:  0.854797740526
+
+
+ -- Scores -- Test Split -- 
+Explained Variance Score:  0.496992584307
+Mean Absolute Error:  0.373973089486
+Mean Squared Error:  0.353965118696
+Median Absolute Error:  0.211345329881
+R2 Score:  0.496952362243
+
+
+
+Parameters
+
+Depth:  10
+estimator:  161
+l_rate:  0.03
+sub_sample:  0.94
+col_sample:  0.85
+seed:  4242
+Alpha:  0.7
+Lambda:  1.0
+
+
+ -- Scores -- Full Train -- 
+Explained Variance Score:  0.744845266316
+Mean Absolute Error:  0.2590346338
+Mean Squared Error:  0.177674024946
+Median Absolute Error:  0.149264809353
+R2 Score:  0.744840968794
+
+
+ -- Scores -- Train Split -- 
+Explained Variance Score:  0.854409485291
+Mean Absolute Error:  0.207772424525
+Mean Squared Error:  0.101117844152
+Median Absolute Error:  0.130611008828
+R2 Score:  0.854399821662
+
+
+ -- Scores -- Test Split -- 
+Explained Variance Score:  0.491409469448
+Mean Absolute Error:  0.378646455441
+Mean Squared Error:  0.356305113465
+Median Absolute Error:  0.21990347041
+R2 Score:  0.491409358727
+
+
+Parameters
+
+Depth:  10
+estimator:  500
+l_rate:  0.03
+sub_sample:  0.94
+col_sample:  0.85
+seed:  4242
+Alpha:  0.7
+
+
+ -- Scores -- Full Train -- 
+Explained Variance Score:  0.862163587404
+Mean Absolute Error:  0.173117770576
+Mean Squared Error:  0.0959792715642
+Median Absolute Error:  0.091057761348
+R2 Score:  0.862163431286
+
+
+ -- Scores -- Train Split -- 
+Explained Variance Score:  0.948601397626
+Mean Absolute Error:  0.124881585651
+Mean Squared Error:  0.0358075900532
+Median Absolute Error:  0.0794050165003
+R2 Score:  0.948601068028
+
+
+ -- Scores -- Test Split -- 
+Explained Variance Score:  0.515597307879
+Mean Absolute Error:  0.366062510275
+Mean Squared Error:  0.336665997608
+Median Absolute Error:  0.204168595975
+R2 Score:  0.515579017913e
+
+
+
+Parameters
+
+Depth:  10
+estimator:  500
+l_rate:  0.03
+sub_sample:  0.94
+col_sample:  0.85
+seed:  4242
+Alpha:  0.7
+
+
+ -- Scores -- Full Train -- 
+Explained Variance Score:  0.862163587404
+Mean Absolute Error:  0.173117770576
+Mean Squared Error:  0.0959792715642
+Median Absolute Error:  0.091057761348
+R2 Score:  0.862163431286
+
+
+ -- Scores -- Train Split -- 
+Explained Variance Score:  0.948601397626
+Mean Absolute Error:  0.124881585651
+Mean Squared Error:  0.0358075900532
+Median Absolute Error:  0.0794050165003
+R2 Score:  0.948601068028
+
+
+ -- Scores -- Test Split -- 
+Explained Variance Score:  0.515597307879
+Mean Absolute Error:  0.366062510275
+Mean Squared Error:  0.336665997608
+Median Absolute Error:  0.204168595975
+R2 Score:  0.515579017913
+
+
+
+Parameters
+
+Both X1 & X2 
+Depth:  10
+estimator:  500
+l_rate:  0.03
+sub_sample:  0.94
+col_sample:  0.85
+seed:  4242
+Alpha:  0.7
+
+
+ -- Scores -- Full Train -- 
+Explained Variance Score:  0.878104869704
+Mean Absolute Error:  0.155315880464
+Mean Squared Error:  0.0848788991495
+Median Absolute Error:  0.0776768228693
+R2 Score:  0.878104761327
+
+
+ -- Scores -- Train Split -- 
+Explained Variance Score:  0.963365822253
+Mean Absolute Error:  0.105476792881
+Mean Squared Error:  0.0256037943083
+Median Absolute Error:  0.0661874556177
+R2 Score:  0.963365477479
+
+
+ -- Scores -- Test Split -- 
+Explained Variance Score:  0.530666214944
+Mean Absolute Error:  0.354672230798
+Mean Squared Error:  0.321979318514
+Median Absolute Error:  0.198201310777
+R2 Score:  0.530665707603
+
+
+
+Parameters
+
+[1072]	validation_0-rmse:0.575652
+Both X1 & X2 
+Depth:  9
+estimator:  10000
+l_rate:  0.03
+sub_sample:  0.9
+col_sample:  0.8
+seed:  4242
+Alpha:  0.8
+
+
+ -- Scores -- Full Train -- 
+Explained Variance Score:  0.891023346158
+Mean Absolute Error:  0.13223601824
+Mean Squared Error:  0.0758851683157
+Median Absolute Error:  0.0568200080318
+R2 Score:  0.891020727221
+
+
+ -- Scores -- Train Split -- 
+Explained Variance Score:  0.980930943696
+Mean Absolute Error:  0.0757585115597
+Mean Squared Error:  0.0132457735486
+Median Absolute Error:  0.0466978763371
+R2 Score:  0.980930889109
+
+
+ -- Scores -- Test Split -- 
+Explained Variance Score:  0.535793643431
+Mean Absolute Error:  0.358146044963
+Mean Squared Error:  0.326442747384
+Median Absolute Error:  0.199468318316
+R2 Score:  0.535742901468
+
+
+
+
+Parameters
+
+[787]	validation_0-rmse:0.564765
+Depth:  10
+estimator:  10000
+l_rate:  0.03
+sub_sample:  0.95
+col_sample:  0.9
+seed:  4242
+Alpha:  0.7
+
+
+ -- Scores -- Full Train -- 
+Explained Variance Score:  0.897345120638
+Mean Absolute Error:  0.125639634357
+Mean Squared Error:  0.0714833774569
+Median Absolute Error:  0.0516516678944
+R2 Score:  0.897342172865
+
+
+ -- Scores -- Train Split -- 
+Explained Variance Score:  0.984349059846
+Mean Absolute Error:  0.0684240269177
+Mean Squared Error:  0.0110054272487
+Median Absolute Error:  0.0421140386908
+R2 Score:  0.984348941002
+
+
+ -- Scores -- Test Split -- 
+Explained Variance Score:  0.531578613007
+Mean Absolute Error:  0.354502064115
+Mean Squared Error:  0.31339517829
+Median Absolute Error:  0.199323355413
+R2 Score:  0.531475130757
+
+
+
+
+Parameters
+[299]	validation_0-rmse:0.579649
+
+Depth:  10
+estimator:  300
+l_rate:  0.05
+sub_sample:  0.95
+col_sample:  0.9
+seed:  4242
+Alpha:  0.7
+Lambda:  0.2
+
+
+ -- Scores -- Full Train -- 
+Explained Variance Score:  0.8691464848
+Mean Absolute Error:  0.166244721895
+Mean Squared Error:  0.0911170176824
+Median Absolute Error:  0.0879380467861
+R2 Score:  0.869146151413
+
+
+ -- Scores -- Train Split -- 
+Explained Variance Score:  0.955423742761
+Mean Absolute Error:  0.117765156085
+Mean Squared Error:  0.0310794026707
+Median Absolute Error:  0.0765071809292
+R2 Score:  0.955423632211
+
+
+ -- Scores -- Test Split -- 
+Explained Variance Score:  0.521833913528
+Mean Absolute Error:  0.360162985132
+Mean Squared Error:  0.331267477729
+Median Absolute Error:  0.194590418987
+R2 Score:  0.521816032174
+
+
+
+Parameters
+
+-Grid-
+Best Grid Params: {'reg_alpha': 1, 'learning_rate': 0.03, 'n_estimators': 300, 'max_depth': 7, 'reg_lambda': 1, 'colsample_bytree': 0.85, 'seed': 2314, 'subsample': 0.9, 'min_child_weight': 7}
+
+
+ -- Scores -- Full Train -- 
+Explained Variance Score:  0.682392251857
+Mean Absolute Error:  0.30456847267
+Mean Squared Error:  0.221159075706
+Median Absolute Error:  0.187046572399
+R2 Score:  0.682391753569
+
+
+ -- Scores -- Train Split -- 
+Explained Variance Score:  0.726670026109
+Mean Absolute Error:  0.287620397804
+Mean Squared Error:  0.190796862097
+Median Absolute Error:  0.181688669782
+R2 Score:  0.726669635405
+
+
+ -- Scores -- Test Split -- 
+Explained Variance Score:  0.503073853873
+Mean Absolute Error:  0.372360772132
+Mean Squared Error:  0.342607930143
+Median Absolute Error:  0.21233555552
+R2 Score:  0.503072790407
+
+
+Parameters
+
+-Grid-
+Best Grid Params: {'reg_alpha': 1, 'learning_rate': 0.03, 'n_estimators': 1000, 'max_depth': 10, 'reg_lambda': 0, 'colsample_bytree': 0.95, 'seed': 2314, 'subsample': 0.95, 'min_child_weight': 1}
+
+
+ -- Scores -- Full Train -- 
+Explained Variance Score:  0.901265494585
+Mean Absolute Error:  0.103526639912
+Mean Squared Error:  0.0687550666899
+Median Absolute Error:  0.0297449186335
+R2 Score:  0.901260320903
+
+
+ -- Scores -- Train Split -- 
+Explained Variance Score:  0.994322471625
+Mean Absolute Error:  0.040208126407
+Mean Squared Error:  0.00398123215039
+Median Absolute Error:  0.0232041022961
+R2 Score:  0.994322448859
+
+
+ -- Scores -- Test Split -- 
+Explained Variance Score:  0.51553229081
+Mean Absolute Error:  0.35680069393
+Mean Squared Error:  0.327850404848
+Median Absolute Error:  0.192045725169
+R2 Score:  0.515384604392
+
+Parameters
+
+Depth:  10
+estimator:  900
+l_rate:  0.03
+sub_sample:  0.94
+col_sample:  0.85
+seed:  4242
+Alpha:  0.7
+Lambda:  1.0
+Min Child:  7
+
+
+ -- Scores -- Full Train -- 
+Explained Variance Score:  0.884102179853
+Mean Absolute Error:  0.136819023083
+Mean Squared Error:  0.0807112618737
+Median Absolute Error:  0.0600243465834
+R2 Score:  0.884089937213
+
+
+ -- Scores -- Train Split -- 
+Explained Variance Score:  0.978461076345
+Mean Absolute Error:  0.0798458275394
+Mean Squared Error:  0.0148390096581
+Median Absolute Error:  0.0493715428324
+R2 Score:  0.97846093928
+
+
+ -- Scores -- Test Split -- 
+Explained Variance Score:  0.525916109394
+Mean Absolute Error:  0.364711805256
+Mean Squared Error:  0.344200270736
+Median Absolute Error:  0.198090499169
+R2 Score:  0.525669788356
+
+
+
+Parameters
+
+
+-Grid-
+Best Grid Params: {'reg_alpha': 1, 'max_depth': 10, 'n_estimators': 1000, 'learning_rate': 0.03, 'subsample': 0.95, 'min_child_weight': 7, 'seed': 2314, 'nthread': 8, 'colsample_bytree': 0.9}
+
+
+ -- Scores -- Full Train -- 
+Explained Variance Score:  0.900432699887
+Mean Absolute Error:  0.110606468612
+Mean Squared Error:  0.0693323999682
+Median Absolute Error:  0.0376103631741
+R2 Score:  0.90043120815
+
+
+ -- Scores -- Train Split -- 
+Explained Variance Score:  0.991443158177
+Mean Absolute Error:  0.0499888442693
+Mean Squared Error:  0.00601644895213
+Median Absolute Error:  0.0297895569672
+R2 Score:  0.99144313237
+
+
+ -- Scores -- Test Split -- 
+Explained Variance Score:  0.517922484006
+Mean Absolute Error:  0.353076965983
+Mean Squared Error:  0.322596204032
+Median Absolute Error:  0.191910874298
+R2 Score:  0.517875032767
+
+
+
+Parameters
+
+XGBRegressor(base_score=0.5, colsample_bylevel=1, colsample_bytree=0.9,
+       gamma=0, learning_rate=0.03, max_delta_step=0, max_depth=10,
+       min_child_weight=1, missing=None, n_estimators=500, nthread=8,
+       objective='reg:linear', reg_alpha=1, reg_lambda=1,
+       scale_pos_weight=1, seed=2314, silent=False, subsample=0.95)
+-Grid-
+Best Grid Params: {'reg_alpha': 1, 'max_depth': 10, 'n_estimators': 500, 'learning_rate': 0.03, 'subsample': 0.95, 'min_child_weight': 1, 'seed': 2314, 'nthread': 8, 'colsample_bytree': 0.9}
+
+
+ -- Scores -- Full Train -- 
+Explained Variance Score:  0.878362092616
+Mean Absolute Error:  0.154123055911
+Mean Squared Error:  0.0847039325216
+Median Absolute Error:  0.0757040427155
+R2 Score:  0.878356032244
+
+
+ -- Scores -- Train Split -- 
+Explained Variance Score:  0.963845878287
+Mean Absolute Error:  0.104181665123
+Mean Squared Error:  0.0252842873145
+Median Absolute Error:  0.065008866284
+R2 Score:  0.963845602962
+
+
+ -- Scores -- Test Split -- 
+Explained Variance Score:  0.528975449191
+Mean Absolute Error:  0.353888619063
+Mean Squared Error:  0.32238251335
+Median Absolute Error:  0.194898371138
+R2 Score:  0.528764028759
+
+
+Parameters
+
+Depth:  20
+estimator:  300
+l_rate:  0.03
+sub_sample:  0.94
+col_sample:  0.85
+seed:  4242
+Alpha:  1.0
+Lambda:  1.0
+Min Child:  20
+
+
+ -- Scores -- Full Train -- 
+Explained Variance Score:  0.892916799847
+Mean Absolute Error:  0.129511686994
+Mean Squared Error:  0.0745661323721
+Median Absolute Error:  0.0565429296484
+R2 Score:  0.892915004866
+
+
+ -- Scores -- Train Split -- 
+Explained Variance Score:  0.980759922017
+Mean Absolute Error:  0.0742223576819
+Mean Squared Error:  0.0135272261701
+Median Absolute Error:  0.0473670186199
+R2 Score:  0.980759888961
+
+
+ -- Scores -- Test Split -- 
+Explained Variance Score:  0.52366849496
+Mean Absolute Error:  0.350669004241
+Mean Squared Error:  0.31872175718
+Median Absolute Error:  0.191490834557
+R2 Score:  0.523611044266
+
+
+​
+
+
+Parameters
+
+Depth:  20
+estimator:  300
+l_rate:  0.03
+sub_sample:  0.94
+col_sample:  0.85
+seed:  4242
+Alpha:  1
+Lambda:  1.0
+Min Child:  22
+
+
+ -- Scores -- Full Train -- 
+Explained Variance Score:  0.882525156615
+Mean Absolute Error:  0.139991526047
+Mean Squared Error:  0.0818010473699
+Median Absolute Error:  0.0635734716007
+R2 Score:  0.882524887896
+
+
+ -- Scores -- Train Split -- 
+Explained Variance Score:  0.975382307309
+Mean Absolute Error:  0.0833093013808
+Mean Squared Error:  0.0169868576259
+Median Absolute Error:  0.053102881929
+R2 Score:  0.975382292473
+
+
+ -- Scores -- Test Split -- 
+Explained Variance Score:  0.527069809196
+Mean Absolute Error:  0.366720424711
+Mean Squared Error:  0.341057806346
+Median Absolute Error:  0.202913999557
+R2 Score:  0.527060667619
+
+
+
+Parameters
+
+Depth:  20
+estimator:  300
+l_rate:  0.03
+sub_sample:  0.94
+col_sample:  0.85
+seed:  4242
+Alpha:  1
+Lambda:  1.0
+Min Child:  20
+
+
+ -- Scores -- Full Train -- 
+Explained Variance Score:  0.884933043451
+Mean Absolute Error:  0.133076973357
+Mean Squared Error:  0.0801242298747
+Median Absolute Error:  0.0578098526648
+R2 Score:  0.884932978373
+
+
+ -- Scores -- Train Split -- 
+Explained Variance Score:  0.980466674132
+Mean Absolute Error:  0.0744098933719
+Mean Squared Error:  0.0135138671041
+Median Absolute Error:  0.04775587883
+R2 Score:  0.980466627641
+
+
+ -- Scores -- Test Split -- 
+Explained Variance Score:  0.514670767735
+Mean Absolute Error:  0.367745293295
+Mean Squared Error:  0.346565680957
+Median Absolute Error:  0.200683322838
+R2 Score:  0.514670599113
+
+Parameters
+X_tr, X_val, y_tr, y_val= train_test_split(X_train, y_train, test_size=0.1
+
+Depth:  20
+estimator:  300
+l_rate:  0.03
+sub_sample:  0.94
+col_sample:  0.85
+seed:  4242
+Alpha:  1.0
+Lambda:  1.0
+Min Child:  20
+
+
+ -- Scores -- Full Train -- 
+Explained Variance Score:  0.850062431239
+Mean Absolute Error:  0.155092163639
+Mean Squared Error:  0.104405567494
+Median Absolute Error:  0.0621767410585
+R2 Score:  0.850062363014
+
+
+ -- Scores -- Train Split -- 
+Explained Variance Score:  0.98042805541
+Mean Absolute Error:  0.0745696258761
+Mean Squared Error:  0.0136616900949
+Median Absolute Error:  0.0476247084242
+R2 Score:  0.980428007287
+
+
+ -- Scores -- Test Split -- 
+Explained Variance Score:  0.513047282249
+Mean Absolute Error:  0.360331875855
+Mean Squared Error:  0.338015685633
+Median Absolute Error:  0.194420037305
+R2 Score:  0.513046695977
+
+ -- Scores -- Test Split -- 
+Explained Variance Score:  0.509800617247
+Mean Absolute Error:  0.36542295354
+Mean Squared Error:  0.337263272113
+Median Absolute Error:  0.208362312376
+R2 Score:  0.509800496469
+
+
+Parameters
+X_tr, X_val, y_tr, y_val= train_test_split(X_train, y_train, test_size=0.1
+
+Depth:  20
+estimator:  150
+l_rate:  0.03
+sub_sample:  0.94
+col_sample:  0.85
+seed:  4242
+Alpha:  1.0
+Lambda:  1.0
+Min Child:  20
+
+
+ -- Scores -- Full Train -- 
+Explained Variance Score:  0.823198958354
+Mean Absolute Error:  0.193869653861
+Mean Squared Error:  0.123113200845
+Median Absolute Error:  0.0969253420435
+R2 Score:  0.823196187142
+
+
+ -- Scores -- Train Split -- 
+Explained Variance Score:  0.941677655207
+Mean Absolute Error:  0.128300801574
+Mean Squared Error:  0.0408909717211
+Median Absolute Error:  0.0796840365015
+R2 Score:  0.9416671764
+
+
+ -- Scores -- Test Split -- 
+Explained Variance Score:  0.512915092316
+Mean Absolute Error:  0.362473402288
+Mean Squared Error:  0.334610848574
+Median Absolute Error:  0.201397332233
+R2 Score:  0.512909153255
+
+ -- Scores -- Test Split -- 
+Explained Variance Score:  0.507855305547
+Mean Absolute Error:  0.36247864316
+Mean Squared Error:  0.334417484627
+Median Absolute Error:  0.200407625614
+R2 Score:  0.50784949547
+
+
+Parameters
+X_tr, X_val, y_tr, y_val= train_test_split(X_train, y_train, test_size=0.1
+
+Depth:  25
+estimator:  150
+l_rate:  0.03
+sub_sample:  0.94
+col_sample:  0.85
+seed:  4242
+Alpha:  1.0
+Lambda:  1.0
+Min Child:  20
+
+
+ -- Scores -- Full Train -- 
+Explained Variance Score:  0.822399001076
+Mean Absolute Error:  0.18908642438
+Mean Squared Error:  0.123679609256
+Median Absolute Error:  0.090334449716
+R2 Score:  0.822382763675
+
+
+ -- Scores -- Train Split -- 
+Explained Variance Score:  0.947664994511
+Mean Absolute Error:  0.119539758289
+Mean Squared Error:  0.0360878529733
+Median Absolute Error:  0.0734123011106
+R2 Score:  0.947655439205
+
+
+ -- Scores -- Test Split -- 
+Explained Variance Score:  0.503843632841
+Mean Absolute Error:  0.370232086461
+Mean Squared Error:  0.351756693907
+Median Absolute Error:  0.202322590533
+R2 Score:  0.503830007482
+
+ -- Scores -- Test Split -- 
+Explained Variance Score:  0.524689229684
+Mean Absolute Error:  0.363760228484
+Mean Squared Error:  0.343801502115
+Median Absolute Error:  0.197827451353
+R2 Score:  0.52456308341
+
+
+Parameters
+X_tr, X_val, y_tr, y_val= train_test_split(X_train, y_train, test_size=0.1
+
+Depth:  15
+estimator:  150
+l_rate:  0.03
+sub_sample:  0.94
+col_sample:  0.85
+seed:  4242
+Alpha:  1.0
+Lambda:  1.0
+Min Child:  20
+
+
+ -- Scores -- Full Train -- 
+Explained Variance Score:  0.801031481762
+Mean Absolute Error:  0.215141688128
+Mean Squared Error:  0.138554203811
+Median Absolute Error:  0.11531512912
+R2 Score:  0.801021244244
+
+
+ -- Scores -- Train Split -- 
+Explained Variance Score:  0.91575278827
+Mean Absolute Error:  0.155976291801
+Mean Squared Error:  0.0581680960815
+Median Absolute Error:  0.0985507144112
+R2 Score:  0.915742899699
+
+
+ -- Scores -- Test Split -- 
+Explained Variance Score:  0.512851195585
+Mean Absolute Error:  0.365787057814
+Mean Squared Error:  0.344478395748
+Median Absolute Error:  0.203173100564
+R2 Score:  0.512846975055
+
+ -- Scores -- Validation -- 
+Explained Variance Score:  0.518281667462
+Mean Absolute Error:  0.369970876249
+Mean Squared Error:  0.346670633978
+Median Absolute Error:  0.201939021016
+R2 Score:  0.518249945501
+
+
+
+
+
+
+
