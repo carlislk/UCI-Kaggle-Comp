@@ -1,1 +1,1 @@
-# UCIKaggleComp
+# UCI Kaggle Competition
